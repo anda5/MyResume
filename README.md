@@ -3,7 +3,7 @@
 # MyResume
 ![pic](https://github.com/anda5/MyResume/blob/master/Poza1jpg.jpg?raw=true)
 
-![pic](https://github.com/anda5/MyResume/blob/master/Poza1jpg.jpg?raw=true)
+![pic](https://github.com/anda5/MyResume/blob/master/Poza2.jpg?raw=true)
 
 ![pic](https://github.com/anda5/MyResume/blob/master/Poza3.jpg?raw=true)
 
